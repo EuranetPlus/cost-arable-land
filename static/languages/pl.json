@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile kosztuje hektar ziemi uprawnej w UE?",
+  "subtitle": "W latach 2022–2023 średnia cena hektara ziemi ornej w UE wzrosła o 4,5%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Brak danych dla Niemiec, Portugalii, Cypru i Włoch. Malta nie jest uwzględniona w wizualizacji, ale prowadzi z ceną 283 039 euro/ha gruntów ornych.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "€/hektar",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
