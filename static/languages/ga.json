@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cad a chosnaíonn heicteár talún saoil san AE?",
+  "subtitle": "Idir 2022 agus 2023 mhéadaigh an meánphraghas ar heicteár de thalamh arúil san AE faoi 4.5%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Níl aon sonraí tugtha don Ghearmáin, don Phortaingéil, don Chipir ná don Iodáil. Níl Málta léirithe ach tá sí chun tosaigh le €283,039/heicteár de thalamh arúil.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "€/heicteár",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
