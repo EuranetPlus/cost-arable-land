@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko stojí hektár ornej pôdy v EÚ?",
+  "subtitle": "Medzi rokmi 2022 a 2023 sa priemerná cena za hektár ornej pôdy v EÚ zvýšila o 4,5 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Za Nemecko, Portugalsko, Cyprus a Taliansko nie sú uvedené žiadne údaje. Malta nie je zobrazená, ale vedie s 283 039 €/hektár ornej pôdy.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "€/hektár",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
