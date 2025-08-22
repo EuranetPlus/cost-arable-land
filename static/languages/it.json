@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanto costa un ettaro di terreno coltivabile nell'UE?",
+  "subtitle": "Tra il 2022 e il 2023 il prezzo medio di un ettaro di terreno coltivabile nell'UE è aumentato del 4,5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Non sono disponibili dati per Germania, Portogallo, Cipro e Italia. Malta non è visualizzata, ma è in testa con 283.039 €/ettaro di terreno coltivabile.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "€/ettaro",
   "tooltipExtraInfoLabel": "clicca qui"
 }
