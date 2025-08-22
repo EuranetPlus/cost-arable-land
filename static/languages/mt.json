@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm jiswa ettaru ta' art agrikola fl-UE?",
+  "subtitle": "Bejn l-2022 u l-2023 il-prezz medju għal ettaru ta’ art agrikola fl-UE żdied b’4.5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Ma ngħatat l-ebda dejta għall-Ġermanja, il-Portugall, Ċipru u l-Italja. Malta mhijiex viżwalizzata iżda tinsab fl-ewwel post b'283039 €/ettaru ta' art agrikola.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "€/ettaru",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
