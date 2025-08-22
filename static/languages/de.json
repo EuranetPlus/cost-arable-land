@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Was kostet ein Hektar Ackerland in der EU?",
+  "subtitle": "Zwischen 2022 und 2023 stieg der Durchschnittspreis für einen Hektar Ackerland in der EU um 4,5 %.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Für Deutschland, Portugal, Zypern und Italien liegen keine Daten vor. Malta wird nicht dargestellt, liegt aber mit 283.039 €/Hektar Ackerland an der Spitze.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "€/Hektar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
